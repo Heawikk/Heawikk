@@ -1,16 +1,28 @@
-## Hi there 👋
+### Heya!! I'm Masya 👋
 
-<!--
-**Heawikk/Heawikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=heawikk&show_icons=true&line_height=27&include_all_commits=true" />
+</a>
+  
+### 🦊 About me
+* Made in Republic Sakha (Yakutita)
+* I am 16 y.o
+* Furry (Fox & Protogen)
+* YouTuber, Programmer, Game Developer
+* Pianist, Guitarist, Remixer, Drummer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+[![Languages](https://skillicons.dev/icons?i=python,html,css,php,js,nodejs,cpp,discordjs,unreal,unity,lua)](https://skillicons.dev)<p>
+[![Technologies](https://skillicons.dev/icons?i=git,gitlab,figma,github,debian,arch,visualstudio,vscode,dotnet)](https://skillicons.dev)<p>
+[![Programs](https://skillicons.dev/icons?i=ae,au,ps,pr,blender,)](https://skillicons.dev)<p>
+
+## 👨‍💻 Experience in Hackathons:
+- My Profession IT 2023
+- DriveeIT
+- DriveeIT BootCamp
+- Pixel Jam
+- Summer Game Forge
+- SibGameJam
+- Step into the Future 2025
