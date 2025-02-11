@@ -20,9 +20,9 @@
 
 ## 👨‍💻 Experience in Hackathons:
 - My Profession IT 2023
+- SibGameJam 2023
 - DriveeIT
 - DriveeIT BootCamp
-- Pixel Jam
-- Summer Game Forge
-- SibGameJam
+- Summer Game Forge 2024
+- Pixel Jam 2024
 - Step into the Future 2025
