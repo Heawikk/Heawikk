@@ -7,7 +7,7 @@
 </a>
   
 ### 🦊 About me
-* Made in Republic Sakha (Yakutita)
+* Made in Republic Sakha (Yakutia)
 * I am 16 y.o
 * Furry (Fox & Protogen)
 * YouTuber, Programmer, Game Developer
