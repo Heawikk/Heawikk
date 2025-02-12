@@ -30,3 +30,4 @@
 - Summer Game Forge 2024
 - Pixel Jam 2024
 - Step into the Future 2025
+- My Profession IT 2025
