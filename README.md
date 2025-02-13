@@ -22,7 +22,7 @@
 [![Technologies](https://skillicons.dev/icons?i=git,gitlab,figma,github,debian,arch,visualstudio,vscode,dotnet)](https://skillicons.dev)<p>
 [![Programs](https://skillicons.dev/icons?i=ae,au,ps,pr,blender,)](https://skillicons.dev)<p>
 
-## 👨‍💻 Experience in Hackathons:
+## 👨‍💻 Participation in Hackathons:
 - My Profession IT 2023
 - SibGameJam 2023
 - DriveeIT
