@@ -12,7 +12,7 @@
 
 ### 🦊 About me
 * Made in Republic Sakha (Yakutia)
-* I am 17 y.o
+* I am 18 y.o
 * Furry (Fox & Protogen)
 * YouTuber, Programmer, Game Developer
 * Pianist, Guitarist, Remixer, Drummer
