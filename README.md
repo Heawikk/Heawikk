@@ -6,10 +6,6 @@
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=heawikk&show_icons=true&line_height=27&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heawikk&layout=compact" />
-</a>
-
 ### 🦊 About me
 * Made in Republic Sakha (Yakutia)
 * I am 18 y.o
