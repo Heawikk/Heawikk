@@ -28,3 +28,4 @@
 - Step into the Future 2025
 - My Profession IT 2025
 - Step into the Future 2026
+- ПикАйти 2026
